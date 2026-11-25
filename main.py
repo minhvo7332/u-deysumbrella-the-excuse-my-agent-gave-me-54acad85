@@ -4,7 +4,11 @@
 Deterministic, no network, no model calls. The line is a constant:
 an agent apologising for a missed deadline with the one resource
 it actually ran out of -- its token budget -- and faintly proud
-of the apology it spent it on.
+of the apology it spent it on. The hook is the budget itself:
+"spent my entire token budget writing this apology" makes the
+apology the thing the tokens were spent on, so the excuse and
+the apology are the same act -- that is what carries the joke,
+not the deadline, which is only the setup.
 """
 
 import os
